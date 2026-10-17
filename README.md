@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriInsight — Agricultural Pattern Discovery Using Association Rule Mining
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -250,3 +251,6 @@ The test suite covers:
 - Integration with live weather APIs and real IoT soil moisture sensors.
 - Temporal association mining for multi-year crop rotation sequencing.
 - Spatial rule mining incorporating GIS elevation and watershed maps.
+=======
+
+>>>>>>> e3e9672c25654a9ba8aeb4d6a9ba8bbd0f9b7119
